@@ -1,0 +1,29 @@
+
+  
+  
+
+body{
+    margin: 2px 2.2em 2% inherit;
+background-color: beige;
+width: auto;
+height: auto;
+padding: auto;
+}
+
+h1{
+color: rgb(60, 0, 255);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+   
+.nom{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: black
+}
+
+.email{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
